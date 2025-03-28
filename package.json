@@ -1,7 +1,7 @@
 {
   "name": "@apiverve/bucketlist",
-  "version": "1.1.8",
-  "description": "Bucket List is a simple tool for getting a random bucket list item. It returns a random item from a predefined list of items.",
+  "version": "1.1.9",
+  "description": "Bucket List is a simple tool for getting a random bucket list item. It returns a random bucket list item",
   "main": "index.js",
   "scripts": {
     "test": "mocha"

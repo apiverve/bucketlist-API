@@ -1,7 +1,7 @@
 Bucket List API
 ============
 
-Bucket List is a simple tool for getting a random bucket list item. It returns a random item from a predefined list of items.
+Bucket List is a simple tool for getting a random bucket list item. It returns a random bucket list item
 
 ![Build Status](https://img.shields.io/badge/build-passing-green)
 ![Code Climate](https://img.shields.io/badge/maintainability-B-purple)
